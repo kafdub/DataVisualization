@@ -1,20 +1,3 @@
----
-title: "Programming Assignment 1 Submission"
-subtitle: "Data Visualization by University of Illinois at Urbana-Champaign"
-author: "Ahmad, Kafil <img src='figure/ShirotoNorimichi.jpg' width='24'>®"
-date: "`r Sys.Date()`"
-output:
-  tufte::tufte_html:
-    toc: yes
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: xelatex
-  tufte::tufte_book:
-    citation_package: natbib
-    latex_engine: xelatex
-bibliography: skeleton.bib
-link-citations: yes
----
 
 # 1. Introduction
 
